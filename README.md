@@ -1,1 +1,5 @@
 # Text-Editor
+
+## License 
+
+MIT
